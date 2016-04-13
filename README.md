@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/trojanc/gulp-cordova-build-windows.svg?branch=master)](https://travis-ci.org/trojanc/gulp-cordova-build-windows)
 # gulp-cordova-build-windows
 
 > Build the cordova project for the Windows platform.
